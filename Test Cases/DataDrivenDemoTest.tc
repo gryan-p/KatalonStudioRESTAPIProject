@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenDemoTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48b688d5-cb41-4c2a-895e-974dd7b3e58b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2cba21d-4f63-42b9-92a9-e26c0abdba69</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Gryan'</defaultValue>
+      <description></description>
+      <id>f2cba21d-4f63-42b9-92a9-e26c0abdba69</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+</TestCaseEntity>
